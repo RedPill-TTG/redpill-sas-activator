@@ -1,0 +1,14 @@
+{
+  "id": "thethorgroup.sas-activator",
+  "url": "https://raw.githubusercontent.com/RedPill-TTG/redpill-sas-activator/master/rpext-index.json",
+  "info": {
+    "name": "Built-in SAS driver activator",
+    "description": "Simple extension which loads SAS drivers natively shipped with the OS",
+    "packer_url": "https://github.com/RedPill-TTG/redpill-sas-activator",
+    "help_url": "https://github.com/RedPill-TTG/redpill-sas-activator"
+  },
+  "releases": {
+    "ds3615xs_25556": "https://raw.githubusercontent.com/RedPill-TTG/redpill-sas-activator/master/recipes/universal.json",
+    "ds3615xs_41222": "https://raw.githubusercontent.com/RedPill-TTG/redpill-sas-activator/master/recipes/universal.json"
+  }
+}

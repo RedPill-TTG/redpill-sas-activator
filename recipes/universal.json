@@ -1,0 +1,14 @@
+{
+  "files": [
+    {
+      "name": "load-builtin-sas.sh",
+      "url": "https://raw.githubusercontent.com/RedPill-TTG/redpill-sas-activator/master/src/load-builtin-sas.sh",
+      "sha256": "d3970d72b1dbcbe38cb1c3fb30cda66b3ea89fccc5b01cc78f5ad05ecefa264e",
+      "packed": false
+    }
+  ],
+
+  "scripts": {
+    "on_boot": "load-builtin-sas.sh"
+  }
+}
